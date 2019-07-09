@@ -1,3 +1,3 @@
 # Sawatch-test
 
-![alt text](prt_screen.jpg)
+![alt text](prt_screen.png)
